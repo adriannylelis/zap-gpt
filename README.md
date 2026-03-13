@@ -8,13 +8,7 @@
 
 Integração entre **WhatsApp** e a **API da OpenAI** que permite gerar respostas de texto com o modelo GPT (Davinci) e imagens com o **DALL-E** diretamente pelo WhatsApp, de forma totalmente automatizada.
 
-> 📖 Veja como criar do zero neste artigo: [Tab News – Guia Completo](https://www.tabnews.com.br/victorharry/guia-completo-de-como-integrar-o-chat-gpt-com-whatsapp)
 
----
-
-## 📸 Demo
-
-![Imagem gerada no Midjourney](https://miro.medium.com/max/720/1*0K0tAo1ujQoFa9NG3ClIdw.webp)
 
 ---
 
@@ -138,7 +132,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença **ISC**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
+[referencia Tab News](https://www.tabnews.com.br/victorharry/guia-completo-de-como-integrar-o-chat-gpt-com-whatsapp)
 ---
 
 <p align="center">Feito com ❤️ — não esqueça de dar uma ⭐ no repositório!</p>
